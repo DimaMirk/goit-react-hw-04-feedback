@@ -1,0 +1,12 @@
+.btn {
+  cursor: pointer;
+  border: 2px solid grey;
+  border-radius: 3px;
+  margin-right: 10px;
+  background-color: inherit;
+}
+
+.btnList {
+  display: flex;
+  list-style: none;
+}
